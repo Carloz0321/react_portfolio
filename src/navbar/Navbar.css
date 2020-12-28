@@ -1,0 +1,18 @@
+.navbar{
+    background-color: black;
+    opacity: .8;
+}
+
+.navH1{
+    column-width: 30vw;
+    text-align: center;
+    color: aliceblue;
+}
+
+.pages{
+    column-width: 65vw;
+}
+a{
+    margin-left: 15px;
+    font-size: small;
+}
