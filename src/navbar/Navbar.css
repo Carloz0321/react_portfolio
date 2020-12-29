@@ -1,18 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400&display=swap');
+
 .navbar{
     background-color: black;
     opacity: .8;
 }
+.links{
+    column-count: 9;
+    list-style-type: none;
+    width: 60vw;
+}
 
-.navH1{
+.home{
+    margin-left: -210px;
+}
+
+.about{
+    margin-left: -240px;
+}
+
+.port{
+    margin-left: -250px;
+}
+
+.cont{
+    margin-left: -356;
+}
+
+h6{
     column-width: 30vw;
     text-align: center;
     color: aliceblue;
+    font-family: 'Roboto Slab', serif;
 }
 
-.pages{
-    column-width: 65vw;
-}
-a{
-    margin-left: 15px;
+li{
     font-size: small;
+    width: 4rem;
+    margin-right: 4rem;
 }
