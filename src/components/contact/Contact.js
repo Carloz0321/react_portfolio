@@ -1,7 +1,11 @@
 import "./Contact.css";
 
 function Contact() {
-  return <h1>hahaha</h1>;
+  return (
+    <ul>
+      <li></li>
+    </ul>
+  );
 }
 
 export default Contact;

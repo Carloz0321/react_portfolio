@@ -1,3 +1,30 @@
+.content{
+    margin-top: 5%;
+    column-count: 2;
+    list-style: none;
+}
+
+.image{
+    content: url("_oro_ink_.jpg");
+    border-radius: 50%;
+    height: 80vh;
+    width: 40vw;
+}
+
+.pCard{
+    background-color: black;
+    opacity: .8;
+    width: 40vw;
+    height: 80vh;
+    padding: 2%;
+    border-radius: 10px;
+    position: relative;
+    
+}
+
 p{
-    background-color: aqua;
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    
 }
