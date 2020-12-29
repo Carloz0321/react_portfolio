@@ -1,0 +1,11 @@
+.apps{
+    column-count: 3;
+    list-style: none;
+}
+iframe{
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(20, 100, 220);
+    border-radius: 10px;
+    opacity: .8;
+}

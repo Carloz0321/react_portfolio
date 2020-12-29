@@ -4,7 +4,7 @@ function Title() {
   return (
     <div className="container">
       <div className="title-card">
-        <span>Que Bola. I'm Raul Oropesa</span>
+        <span>Hello Welcome to my World</span>
       </div>
     </div>
   );

@@ -3,7 +3,9 @@ import "./AboutMe.css";
 function AboutMe() {
   return (
     <div className="aboutMe">
-      <p>hello</p>
+      <ul>
+        <li></li>
+      </ul>
     </div>
   );
 }
