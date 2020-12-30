@@ -3,32 +3,36 @@
 .navbar{
     background-color: black;
     opacity: .8;
+    padding-right: 7vw;
+    
 }
 .links{
-    column-count: 9;
+    column-count: 4;
     list-style-type: none;
     width: 60vw;
+    margin-bottom: 2px;
 }
 
 .home{
-    margin-left: -210px;
+    margin-left: -132px;
 }
 
 .about{
-    margin-left: -240px;
+    margin-left: -270px;
 }
 
 .port{
-    margin-left: -250px;
+    margin-left: -385px;
 }
 
 .cont{
-    margin-left: -356;
+    margin-left: -508px;
 }
 
 h6{
     column-width: 30vw;
     text-align: center;
+    margin-bottom: 2px;
     color: aliceblue;
     font-family: 'Roboto Slab', serif;
 }

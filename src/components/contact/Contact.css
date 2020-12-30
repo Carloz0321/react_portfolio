@@ -1,5 +1,46 @@
+h4{
+    margin-top: 1%;
+    background-color: black;
+    opacity: .8;
+    color: aliceblue;
+    text-align: center;
+    width: 52vw;
+    border-radius: 10px;
+    margin-left: 38vh;
+    margin-right: 38vw;
+}
+
+h5{
+    background-color: black;
+    opacity: .8;
+    color: aliceblue;
+    text-align: center;
+    width: 36vw;
+    border-radius: 10px;
+    margin-left: 54vh;
+    margin-right: 54vw;
+}
+
+.logoLinks{
+    column-count: 2;
+    list-style: none;
+    padding: 10%;
+    padding-top: 5%;
+}
+
 .linkedInLogo{
     content: url("./LI-Logo.png");
-    height: 40vh;
-    width: 20vw;
+    border-radius: 10px;
+    height: 60vh;
+    width: 30vw;
+}
+
+.gitHub{
+    content: url("./GitHub_Logo_White.png");
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 100%;
+    opacity: .7;
+    height: 60vh;
+    width: 30vw;
 }

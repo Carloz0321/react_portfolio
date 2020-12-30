@@ -1,4 +1,7 @@
 .apps{
+    padding: 5%;
+    padding-left: 8%;
+    padding-top: 1%;
     column-count: 3;
     list-style: none;
 }
@@ -8,4 +11,5 @@ iframe{
     border-color: rgb(20, 100, 220);
     border-radius: 10px;
     opacity: .8;
+    margin: 5px;
 }
