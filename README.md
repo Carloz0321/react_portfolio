@@ -1,70 +1,111 @@
-# Getting Started with Create React App
+# React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+created a dynamic Portfolio with React.
 
-### `npm start`
+![License](https://img.shields.io/badge/LICENSE-MIT-maroon)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Table of content
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+- [Description](#description)
+- [Table of content](#table-of-content)
+- [Installation](#installation)
+- [Setup](#setup)
+- [Deploying](#deploying)
+- [Contributing](#contributing)
+- [Support/Questions](#supportquestions)
+- [License](#license)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> **_get started_**:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- node js
+- React js
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Setup
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- npm install
+- npm i react-router-dom --save
+- npm i bootsrap
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![picture of the React Portfolio App](reactPort1.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+---
 
-## Learn More
+![picture of the React Portfolio App](reactPort2.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![picture of the React Portfolio App](reactPort3.png)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![picture of the React Portfolio App](reactPort4.png)
 
-### Analyzing the Bundle Size
+## Deploying
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+- Heroku
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+> **_Find me on Github:_**
 
-### Advanced Configuration
+**_At Github:_**
+<https://github.com/Rauloropesa3/react_portfolio.git>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+**_Check out my React Portfolio Video_**
+<https://drive.google.com/file/d/1sONPXHhJGyeVB1_H5zLzDTaVmyQBclDC/view>
 
-### Deployment
+**_Checkout my Portfolio on Heroku_**
+<https://fierce-journey-90370.herokuapp.com/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Contributing
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**_step 1_**
+
+- **Option 1**
+
+  - Fork this repo!
+
+- **Option 2**
+  - Clone thr repo to your local machine
+
+**_step 2_**
+
+- Hack Away!!!
+- Create a new pull request
+
+## Support/Questions
+
+---
+
+Reach out!
+
+- Via email:
+  - alexoropes1982@yahoo
+
+## License
+
+---
+
+![License](https://img.shields.io/badge/LICENSE-MIT-maroon)
+
+- MIT License
+
+  <https://opensource.org/license/>
+
+  >
