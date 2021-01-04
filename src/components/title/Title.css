@@ -8,7 +8,7 @@
 
 .title-card{
     color: aliceblue;
-    margin-top: 16vmax;
+    margin-top: 30vh;
     padding-left: 12.85vw;
     padding-right: 12.85vw;
 }
@@ -17,7 +17,7 @@ span{
     background-color:black;
     opacity: .8;
     border-radius: 20px;
-    padding: 5px;
+    padding: 10px;
     width: 40vw;
     text-align: center;
     font-size: 400%;

@@ -1,4 +1,5 @@
 import "./AboutMe.css";
+import Footer from "../footer/Footer";
 import "./_oro_ink_.jpg";
 
 function AboutMe() {
@@ -24,6 +25,7 @@ function AboutMe() {
           <p>Thanks for the Visit</p>
         </li>
       </ul>
+      <Footer />
     </div>
   );
 }

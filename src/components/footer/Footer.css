@@ -1,0 +1,38 @@
+html, body{
+    min-height: 100%;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    max-height: 200px;
+    background-color: crimson;
+    padding: 1%;
+    padding-left: 37vw;
+    padding-right: 37vw;
+    margin-top: 28.5vh;
+   
+}
+
+.myLinks{
+    column-count: 2;
+    list-style: none;
+   flex: 1;
+    
+}
+
+.linkedIn{
+    content: url("../contact/LI-Logo.png");
+    height: 4vh;
+}
+
+.git{
+   content: url("../contact/GitHub_Logo.png");
+   height: 5vh;
+}
+
+.copyWrite{
+    padding-left: 1vw;
+    padding-right: 3.5vw;
+    margin-top: -3vh;
+}
